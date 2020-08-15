@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="157" started-at="2020-07-18T17:44:12Z" finished-at="2020-07-18T17:44:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="157" started-at="2020-07-18T17:44:12Z" finished-at="2020-07-18T17:44:13Z">
+      <class name="org.lang.PageExecution">
+        <test-method status="PASS" signature="mentod1()[pri:0, instance:org.lang.PageExecution@475530b9]" name="mentod1" is-config="true" duration-ms="38" started-at="2020-07-18T17:44:12Z" finished-at="2020-07-18T17:44:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mentod1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:org.lang.PageExecution@475530b9]" name="method2" duration-ms="15" started-at="2020-07-18T17:44:12Z" finished-at="2020-07-18T17:44:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="method3()[pri:0, instance:org.lang.PageExecution@475530b9]" name="method3" is-config="true" duration-ms="1" started-at="2020-07-18T17:44:13Z" finished-at="2020-07-18T17:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method status="PASS" signature="mentod1()[pri:0, instance:org.lang.PageExecution@475530b9]" name="mentod1" is-config="true" duration-ms="1" started-at="2020-07-18T17:44:13Z" finished-at="2020-07-18T17:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mentod1 -->
+        <test-method status="PASS" signature="method4()[pri:0, instance:org.lang.PageExecution@475530b9]" name="method4" duration-ms="6" started-at="2020-07-18T17:44:13Z" finished-at="2020-07-18T17:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method4 -->
+        <test-method status="PASS" signature="method3()[pri:0, instance:org.lang.PageExecution@475530b9]" name="method3" is-config="true" duration-ms="1" started-at="2020-07-18T17:44:13Z" finished-at="2020-07-18T17:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+      </class> <!-- org.lang.PageExecution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
