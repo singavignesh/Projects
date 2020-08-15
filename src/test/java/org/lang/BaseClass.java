@@ -10,6 +10,10 @@ public class BaseClass {
 	driver.get("https://wwww.facebook.com");
 		}
 	
+	public void method2() {
+		System.out.println("I am normal");
+	}
+	
 	public static void main(String[] args) {
 		BaseClass st = new BaseClass();
 		st.method();
